@@ -26,3 +26,6 @@ python main.py
 ## Sample Topics
 - Impact of AI in Healthcare
 - Blockchain in Finance
+
+## Agent Type
+This project uses a Zero-Shot ReAct Agent for autonomous reasoning and tool usage.
