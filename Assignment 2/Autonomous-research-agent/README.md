@@ -29,3 +29,12 @@ python main.py
 
 ## Agent Type
 This project uses a Zero-Shot ReAct Agent for autonomous reasoning and tool usage.
+
+## Note
+This project requires an OpenAI API key to run.
+
+Set it using:
+export OPENAI_API_KEY=your_key
+
+Or inside code using:
+os.environ["OPENAI_API_KEY"] = "your_key"
