@@ -38,3 +38,6 @@ export OPENAI_API_KEY=your_key
 
 Or inside code using:
 os.environ["OPENAI_API_KEY"] = "your_key"
+
+## Sample Execution
+<img width="1710" height="1107" alt="Screenshot 2026-03-27 at 8 15 48 PM" src="https://github.com/user-attachments/assets/84d82019-c7c9-4eb2-98fa-e59c3ee1a80b" />
